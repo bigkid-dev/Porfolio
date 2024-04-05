@@ -13,3 +13,8 @@
     box-shadow: 1.5px 1.5px 3px 0px #AEAEC066,
     -1px -1px 3px 0px #FFFFFF;
 }
+
+.shadowFour{
+    box-shadow: 10px 10px 20px 0px #00000014 inset,
+     -10px -10px 20px 0px #FFFFFF inset;
+}
