@@ -1,0 +1,15 @@
+.shadowOne{
+    box-shadow: -10px -10px 20px 0px #FFFFFF,
+     10px 10px 20px 0px #00000017;
+}
+
+.shadowTwo{
+    box-shadow: -10px -10px 20px 0px #FFFFFF inset,
+    10px 10px 20px 0px #AAAACC80 inset,
+    -5px -5px 10px 0px #FFFFFF80 inset;
+}
+
+.shadowThree{
+    box-shadow: 1.5px 1.5px 3px 0px #AEAEC066,
+    -1px -1px 3px 0px #FFFFFF;
+}
